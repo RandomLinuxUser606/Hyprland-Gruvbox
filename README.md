@@ -37,6 +37,46 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
 - Minimalistic and simple visual
 - Made with the keyboard in mind
 
+## Keybindings
+
+### Essential Shortcuts
+| **Keybind**          | **Action**                                  |
+|----------------------|--------------------------------------------|
+| `Super + Q`         | Open terminal (`kitty`)                    |
+| `Super + E`         | Open file manager (`nautilus`)             |
+| `Super + R`         | Launch Rofi app launcher                   |
+| `Super + C`         | Close active window                        |
+| `Super + M`         | Exit Hyprland                              |
+
+### 🖥Window Management
+| **Keybind**               | **Action**                                  |
+|---------------------------|--------------------------------------------|
+| `Super + V`              | Toggle floating mode                       |
+| `Super + P`              | Toggle pseudotiling                        |
+| `Super + J`              | Toggle split layout                        |
+| `Super + O`              | Toggle floating for active window          |
+
+### Navigation
+| **Keybind**               | **Action**                                  |
+|---------------------------|--------------------------------------------|
+| `Super + ←/→/↑/↓`        | Move focus between windows                 |
+| `Super + Shift + ←/→/↑/↓`| Resize active window (±10px)               |
+
+### Workspaces
+| **Keybind**               | **Action**                                  |
+|---------------------------|--------------------------------------------|
+| `Super + 1-0`            | Switch to workspace 1-10                   |
+| `Super + Shift + 1-0`    | Move window to workspace 1-10              |
+| `Super + S`              | Toggle special workspace                   |
+
+### Media Controls
+| **Keybind**               | **Action**                                  |
+|---------------------------|--------------------------------------------|
+| `Volume Keys`            | Control audio volume                       |
+| `Brightness Keys`        | Adjust screen brightness                   |
+| `Media Keys`             | Playback controls (`playerctl`)            |
+
+
 ## Credits
 
 GTK Theme: https://www.gnome-look.org/p/1681313
