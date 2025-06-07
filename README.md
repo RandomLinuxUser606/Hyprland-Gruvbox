@@ -5,10 +5,10 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
 ⚠️ This rice was only tested on Arch, I don't guarantee that it will work on other distros.
 
 ## 📌 Contents
-- [Instalation](##instalation)
-- [Keybindings](##keybindings)
-- [Firefox](##firefox)
-- [Crédits](##credits)
+- [Instalation](#instalation)
+- [Keybindings](#keybindings)
+- [Firefox](#firefox)
+- [Crédits](#credits)
 
 ## Instalation
 
