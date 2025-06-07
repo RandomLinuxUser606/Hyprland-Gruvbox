@@ -85,7 +85,7 @@ Extensions:
 | `Privacy Badger`            | Blocks invisible trackers and spyware    |
 | `uBlock Origin`             | Blocks ads and malicious sites           |
 | `mtab`                      | Customized home page                     |
-
+| `Gruvbox dark theme`        | Beatiful gruvbox theme for Firefox       |
 
 mtab config: https://gist.github.com/RandomLinuxUser606/64a5ed45e37d7d6db90aa51d300355da - inspiration: https://github.com/levelednain/nainism-desktop/tree/sway
 
