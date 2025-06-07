@@ -15,6 +15,9 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
   Oh my zsh: 
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+  Hyprshot
+  yay -S hyprshot
+
 3: Place all files in their respective places.
 
 | File/Configuration          | Location                        |
