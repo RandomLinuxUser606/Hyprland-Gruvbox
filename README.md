@@ -20,16 +20,16 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
 
 3: Place all files in their respective places.
 
-| File/Configuration          | Location                        |
-|-----------------------------|---------------------------------|
-| kitty.conf                  | ~/.config/kitty/                |
-| hyprland.conf               | ~/.config/hypr/                 |
-| waybar (config.jsonc)       | /etc/xdg/waybar/                |
-| Wallpaper                   | ~/Pictures/                     |
-| GTK Theme                   | ~/.themes/                      |
-| Icons                       | ~/.local/share/icons/           |
-| Oh My Zsh theme (custom.zsh)| ~/.oh-my-zsh/custom/            |
-| fastfetch (config.jsonc)    | ~/.config/fastfetch/config.jsonc |
+| File/Configuration                      | Location                        |
+|-----------------------------------------|---------------------------------|
+| kitty.conf                              | ~/.config/kitty/                |
+| hyprland.conf                           | ~/.config/hypr/                 |
+| waybar (config.jsonc & style.css)       | /etc/xdg/waybar/                |
+| Wallpaper                               | ~/Pictures/                     |
+| GTK Theme                               | ~/.themes/                      |
+| Icons                                   | ~/.local/share/icons/           |
+| Oh My Zsh theme (custom.zsh)            | ~/.oh-my-zsh/custom/            |
+| fastfetch (config.jsonc)                | ~/.config/fastfetch/config.jsonc |
 
 ## Keybindings
 
