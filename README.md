@@ -10,7 +10,7 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
   git clone https://github.com/RandomLinuxUser606/Hyprland-Gruvbox.git
 
 2: Install all the dependencies and files:
-  pacman -S hyprland waybar swaybg rofi kitty nautilus zsh
+  pacman -S hyprland waybar swaybg rofi kitty nautilus zsh firefox
 
   Oh my zsh: 
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -30,12 +30,6 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
 | Icons                       | ~/.local/share/icons/           |
 | Oh My Zsh theme (custom.zsh)| ~/.oh-my-zsh/custom/            |
 | fastfetch (config.jsonc)    | ~/.config/fastfetch/config.jsonc |
-
-## Features
-
-- Full Gruvbox theming (GTK, terminal, bar, icons)
-- Minimalistic and simple visual
-- Made with the keyboard in mind
 
 ## Keybindings
 
@@ -76,6 +70,18 @@ A minimalistic hyprland rice, using the gruvbox color pallete.
 | `Brightness Keys`        | Adjust screen brightness                   |
 | `Media Keys`             | Playback controls (`playerctl`)            |
 
+## Firefox
+
+Extensions:
+
+| **Extension**               | **Function**                              |
+|-----------------------------|------------------------------------------|
+| `Privacy Badger`            | Blocks invisible trackers and spyware    |
+| `uBlock Origin`             | Blocks ads and malicious sites           |
+| `mtab`                      | Customized home page                     |
+
+
+mtab config: https://gist.github.com/RandomLinuxUser606/64a5ed45e37d7d6db90aa51d300355da - inspiration: https://github.com/levelednain/nainism-desktop/tree/sway
 
 ## Credits
 
